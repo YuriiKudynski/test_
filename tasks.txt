@@ -1,1 +1,3 @@
-Create some video
+1. Create some video
+2. Реалізувати код задачі 
+3. Протестувати код
